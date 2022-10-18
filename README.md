@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudra Patel</h1>
-<h3 align="center">JavaScript | ReactJS | Python</h3>
+<h3 align="center">JavaScript | M.E.R.N Stack | Python</h3>
 
 - 🔭 I’m currently working on **E - Mart**
 
