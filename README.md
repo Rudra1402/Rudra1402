@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Chat App**
 
-- 🌱 I’m currently learning **Web 3.0**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
