@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rp14ok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rp14ok" height="30" width="40" /></a>
+<a href="https://twitter.com/rp14ok" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://cdn-icons-png.flaticon.com/128/4494/4494477.png)" alt="rp14ok" height="30" width="40" /></a>
 <a href="https://instagram.com/rudra.patel.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudra.patel.14" height="30" width="40" /></a>
 </p>
 
