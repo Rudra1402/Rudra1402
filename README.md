@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rudra Patel</h1>
-<h3 align="center">JavaScript | M.E.R.N Stack | Python</h3>
+<h3 align="center">Intern | JavaScript | ReactJS</h3>
 
 - 🔭 I’m currently working on **Project Manager Website**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
