@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rudra Patel</h1>
 <h3 align="center">Software Developer Intern | JavaScript | ReactJS</h3>
 
-- 🔭 I’m currently working on **Project Manager Website**
+- 🔭 I’m currently working on **Blog using NextJS**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
