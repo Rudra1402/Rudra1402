@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudra Patel</h1>
-<h3 align="center">Software Developer Intern | JavaScript | ReactJS</h3>
+<h3 align="center">Master of Applied Computing | JavaScript | Python</h3>
 
 - 🔭 I’m currently working on **Blog using NextJS**
 
