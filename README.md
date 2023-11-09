@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Communix - A Social Media App**
 
-- 🌱 I’m currently learning **Java for Back-End Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
