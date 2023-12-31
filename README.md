@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bankify App**
 
-- 🌱 I’m currently learning **C++ STL**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
