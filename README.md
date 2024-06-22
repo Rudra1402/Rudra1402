@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Freelance Marketplace**
 
-- 🌱 I’m currently learning **GitHub Actions**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
