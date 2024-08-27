@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Rudra1402)
+- 👨‍💻 All of my projects are available on [RUdra Patel - Portfolio](https://rudrapatel.vercel.app/)
 
 - 💬 Ask me about **JavaScript**
 
