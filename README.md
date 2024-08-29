@@ -13,14 +13,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rp14ok" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/4494/4494477.png" alt="rp14ok" height="30" width="30" /></a>
-<a href="https://instagram.com/rudra.patel.14" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="rudra.patel.14" height="30" width="30" /></a>
+<a href="https://twitter.com/rp14ok" target="blank">
+  <img src="https://skillicons.dev/icons?i=twitter&theme=light" />
+</a>
+<a href="https://instagram.com/rudra.patel.14" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=light" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=js,python,c,cpp,aws,bash,django,docker,css,express,firebase,flask,git,mongodb,mysql,nextjs,netlify,nodejs,npm,postman,react,tailwind,ts,vercel,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=js,python,react,aws,nodejs,django,docker,css,express,firebase,c,cpp,flask,git,mongodb,mysql,nextjs,netlify,npm,bash,postman,tailwind,ts,vercel,vscode&theme=light" />
 </p>
-
+#
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra1402&show_icons=true&locale=en&layout=compact" alt="rudra1402" /></p>
 
