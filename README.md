@@ -13,6 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/rudra14/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+</a>
 <a href="https://twitter.com/rp14ok" target="blank">
   <img src="https://skillicons.dev/icons?i=twitter&theme=light" />
 </a>
@@ -25,6 +28,6 @@
 <p align="left"> 
 <img src="https://skillicons.dev/icons?i=js,python,react,aws,nodejs,django,docker,css,express,firebase,c,cpp,flask,git,mongodb,mysql,nextjs,netlify,npm,bash,postman,tailwind,ts,vercel,vscode&theme=light" />
 </p>
-#
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra1402&show_icons=true&locale=en&layout=compact" alt="rudra1402" /></p>
 
