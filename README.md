@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rudra Patel</h1>
 <h3 align="center">Master of Applied Computing | JavaScript | Python | C++</h3>
 
-- 🔭 I’m currently working on **Freelance Marketplace**
+- 🔭 I’m currently working on **Job Tracking Platform**
 
-- 🌱 I’m currently learning **Rust, Axum**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
