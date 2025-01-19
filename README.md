@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
-- 👨‍💻 All of my projects are available on [Rudra Patel - Portfolio](https://rudrapatel14.netlify.app)
+- 👨‍💻 All of my projects are available on [Rudra Patel - Portfolio](https://rudrapatel14.vercel.app)
 
 - 💬 Ask me about **JavaScript**
 
