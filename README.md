@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **UWingine (LLM based Chatbot)**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Retrieval-Augmented Generation (RAG)**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
