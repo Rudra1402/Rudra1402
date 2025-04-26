@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rudra Patel</h1>
 <h3 align="center">Master of Applied Computing | JavaScript | Python | C++</h3>
 
-- 🔭 I’m currently working on **UCL-GPT (Football based LLM Chatbot)**
+- 🔭 I’m currently working as a **Software Developer ay IBM watsonx.ai**
 
-- 🌱 I’m currently learning **Retrieval-Augmented Generation (RAG)**
+- 🌱 I’m currently learning **Kubernetes(K8s)**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
